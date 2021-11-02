@@ -1,4 +1,4 @@
-# 陈安方欣
+# @Ezrwal007
 class OneWei(object):
     def __init__(self, m):  # N为节点数  H为肋板高度 K为迭代次数
         self.m = m
